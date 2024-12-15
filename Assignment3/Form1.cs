@@ -16,6 +16,7 @@ namespace Assignment3
         public Form1()
         {
             InitializeComponent();
+            this.Cursor = new Cursor("../../images/cursor.cur");
         }
 
         private void Image_MouseClick(object sender, MouseEventArgs e)

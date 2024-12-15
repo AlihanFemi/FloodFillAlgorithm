@@ -93,6 +93,7 @@
   <ItemGroup>
     <Content Include="Images\BigShape.png" />
     <Content Include="Images\Broken.png" />
+    <Content Include="Images\cursor.cur" />
     <Content Include="Images\SmallShape.png" />
     <Content Include="Images\SmallShapeBroken.png" />
   </ItemGroup>
